@@ -20,7 +20,7 @@
       <h3>About</h3>
       <p>B.E. Electronics & Communication Engineering<br/>
       New Horizon College of Engineering, Bangalore</p>
-      <p>CGPA: <b>9.42/10</b> | 4th Semester</p>
+      <p>CGPA: <b>9.32/10</b> | 5th Semester</p>
       <p>Started building electronics in 8th grade — an IR street light from a YouTube tutorial, then a laser detection circuit on a breadboard. Did not understand how they worked back then. The curiosity stuck.</p>
       <p><b>Languages:</b> English · Hindi · Telugu · Kannada · Tamil · Japanese (N5 target)</p>
     </td>
