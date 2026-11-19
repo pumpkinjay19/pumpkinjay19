@@ -67,6 +67,17 @@ Featured
     </td>
   </tr>
 </table>
+
+## Experience
+
+### PCB Design Intern — Ceaser AI
+**October 2026 – Present** · *Expected completion: December 2026*
+
+- Working on electronic circuit schematic design using **KiCad 10**.
+- Involved in component selection based on circuit requirements and design considerations.
+- Exploring the PCB design workflow, with layout and routing planned as the internship progresses.
+
+
 Other Builds
 <table>
   <tr>
