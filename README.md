@@ -51,6 +51,21 @@ Featured
       <p><a href="https://github.com/pumpkinjay19/ro-puf-fpga-verilog"><b>github.com/pumpkinjay19/ro-puf-fpga-verilog</b></a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Adaptive Traffic Control During Emergencies Using FPGA</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Verilog-FF6B35?style=flat-square&logo=verilog&logoColor=white" />
+        <img src="https://img.shields.io/badge/Intel_MAX_10-0071C5?style=flat-square&logo=intel&logoColor=white" />
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/RFID-MFRC522-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/UART-2D2D2D?style=flat-square" />
+      </p>
+      <p>FPGA-based traffic signal controller designed to support emergency-vehicle preemption. An ESP32 with an MFRC522 RFID reader identifies emergency tags and sends requests to the FPGA over UART. The Verilog design includes a traffic-light FSM, pedestrian requests, emergency handling, and fault monitoring. Developed on the Terasic DE10-Lite (MAX 10).</p>
+      <p><b>Status:</b> In progress — first hardware iteration documented; emergency timing correction and full physical-board verification are ongoing.</p>
+      <p><a href="https://github.com/pumpkinjay19/Adaptive-Traffic-Control-During-Emergencies-Using-FPGA"><b>View project repository</b></a></p>
+    </td>
+  </tr>
 </table>
 Other Builds
 <table>
